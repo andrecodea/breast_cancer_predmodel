@@ -1,5 +1,5 @@
 # Prevendo Câncer de Mama com Machine Learning
-Modelo de previsão para câncer de mama utilizando RNA-Seq como parâmetro de reconhecimento.
+Modelo de previsão para câncer de mama utilizando microRNA como parâmetro de reconhecimento para a classificação.
 
 # Desenvolvimento
 1. Leitura dos dados e Importação de Bibliotecas
