@@ -83,10 +83,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn plotly
 ## 📊 Results
 The model achieves high accuracy in predicting breast cancer based on microRNA expression data, demonstrating the potential of machine learning in healthcare applications.
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
